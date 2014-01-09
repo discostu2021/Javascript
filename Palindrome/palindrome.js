@@ -1,7 +1,7 @@
 // Palindrom program logic
 // created by: sszeto2
 
-var punctuation = ["'",".",",",";","?","!","\""," "];
+var punctuation = [":","'",".",",",";","?","!","\""," "];
 var isPunctuation = false;
 var isPalindrome = true; //assumptive true; until proven false
 var evalText = [];
